@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">考勤机</string>
+    <string name="app_company">成都先达卡智能科技有限公司研发</string>
+    <!-- http -->
+    <string name="str_loading">加载中……</string>
+    <string name="str_no_net">没有网络连接</string>
+    <string name="str_loading_wait">请稍候…</string>
+    <string name="str_loading_logout">正在退出…</string>
+    <string name="str_load_retry_btn">重新加载</string>
+    <string name="str_dialog_apk_downloding_msg">正在下载客户端(%1$d %2$s)</string>
+    <string name="str_load_retry_btn_refresh">刷新</string>
+    <string name="str_load_retry_txt">获取数据失败</string>
+    <!-- 转存状态-->
+    <string name="str_trans_state1">卡放感应区</string>
+    <string name="str_trans_state2">转存中，勿取卡！</string>
+    <string name="str_trans_state3">成  功！</string>
+    <string name="str_trans_state4">正在考勤...</string>
+    <string name="str_trans_content1">1，卡放刷卡区域，成功后取走</string>
+    <string name="str_trans_content2">2，刷卡时请正对屏幕</string>
+    <string name="str_trans_content3">3，</string>
+    <string name="str_trans_content">使用说明</string>
+    <string name="str_trans_msg">学生信息</string>
+
+    <string name="str_trans_name">姓名：%1$s</string>
+    <string name="str_trans_school">学校：%1$s</string>
+    <string name="str_trans_class">班级：%1$s</string>
+    <string name="str_trans_time">考勤时间：%1$s</string>
+</resources>
